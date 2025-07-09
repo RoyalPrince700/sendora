@@ -1,7 +1,7 @@
 # Project Summary: Share - Web to Mobile Migration
 
 ## Overview
-This project migrates the InstantShare real-time file-sharing web app to a mobile app using React Native and Expo.
+This project migrates the Sundora real-time file-sharing web app to a mobile app using React Native and Expo.
 
 ## Web Version Features
 - **Frontend:** React + Vite + TypeScript
